@@ -30,8 +30,8 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
-repo_url: https://github.com/mmdjiji/mkdocs-template
-repo_name: mmdjiji/mkdocs-template
+repo_url: https://github.com/dim6tech/OneKVM
+repo_name: dim6tech/OneKVM
 edit_uri: edit/main/docs/
 markdown_extensions:
   - admonition              # 提示块
@@ -57,4 +57,4 @@ markdown_extensions:
   - pymdownx.tasklist:      # 复选框checklist
       custom_checkbox: true
 extra:
-  homepage: https://github.com/mmdjiji/mkdocs-template
+  homepage: https://dim6tech.github.io/OneKVM/
