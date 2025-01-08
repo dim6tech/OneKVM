@@ -11,6 +11,6 @@ In Relative Mode, when you click on the video stream window in One-KVM, the brow
 
 When using the virtual mouse in Relative Mode, a large number of events are generated, which may result in slow transmission speeds over the network or make BIOS/UEFI drivers perceive the response as slow. To address this issue, the program uses vector optimization for mouse events. To activate these optimizations, you can enable the "Squash mouse moves" mode in the menu under "System" -> "Squash mouse moves". If you encounter issues with mouse acceleration, you can try disabling it. This is currently the compromised solution.
 
-![PixPin_2024-06-30_19-40-12](./img/mouse/PixPin_2024-06-30_19-40-12.png)
+![PixPin_2024-06-30_19-40-12](./assets/mouse/PixPin_2024-06-30_19-40-12.png)
 
 In addition, the VNC service currently does not support the virtual mouse in Relative Mode. This is because the recommended clients do not support the QEMU pointer motion change extension. Additionally, mobile browsers do not support the virtual mouse in Relative Mode.

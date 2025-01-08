@@ -4,6 +4,14 @@
     OneKVM is an [open-source firmware](https://github.com/mofeng-git/One-KVM) by GPL-3.0 license. We used it for our hardware project, and here is the documentation.
 
 
+## What is OneKVM?
+
+![Intro](./assets/Intro.png)
+
+If you work remotely or frequently use remote software such as TeamViewer, it's time to purchase a OneKVM as a backup. When there are some problems with the computer (which often happens and there are always bugs), if you are not around the computer, things will become very awkward.
+
+At the same time, if you are engaged in data center operations or related work, why not consider purchasing a OneKVM for hardware remote control, so that you will not lose control of remote devices in the face of any possible accidents.
+
 ## Get started
 
 Once you received the hardware, you can follow the steps below to get started:

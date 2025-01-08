@@ -21,7 +21,7 @@ After adding the configuration, you need to restart the `kvmd` service for the c
 sudo systemctl restart kvmd
 ```
 
-![PixPin_2024-06-30_19-39-44](./img/mouse_jiggler/PixPin_2024-06-30_19-39-44.png)
+![PixPin_2024-06-30_19-39-44](./assets/mouse_jiggler/PixPin_2024-06-30_19-39-44.png)
 
 
 ### Algorithm
