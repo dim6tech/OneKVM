@@ -58,3 +58,12 @@ markdown_extensions:
       custom_checkbox: true
 extra:
   homepage: https://dim6tech.github.io/OneKVM/
+
+nav:
+  - 'Basic':
+    - 'Getting Started': 'index.md'
+  - 'Mouse and Keyboard':
+    - 'Mouse': 'mouse.md'
+    - 'Mouse Jiggler': 'mouse_jiggler.md'
+  - 'Advanced':
+    - 'H264 / WebRTC': 'h264.md'
