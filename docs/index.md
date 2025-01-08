@@ -1,9 +1,8 @@
 # Welcome to use OneKVM!
 
 ??? tip "Copyright statement"
-```
-OneKVM is an [open-source firmware](https://github.com/mofeng-git/One-KVM) by GPL-3.0 license. We used it for our hardware project, and here is the documentation.
-```
+    OneKVM is an [open-source firmware](https://github.com/mofeng-git/One-KVM) by GPL-3.0 license. We used it for our hardware project, and here is the documentation.
+
 
 ## Get started
 
